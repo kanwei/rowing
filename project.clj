@@ -3,7 +3,8 @@
   :url "http://example.com/FIXME"
 
   :dependencies [[org.clojure/clojure "1.6.0"]
-                 [org.clojure/clojurescript "0.0-2913"]]
+                 [org.clojure/clojurescript "0.0-2913"]
+                 [org.apache.pdfbox/pdfbox "1.8.8"]]
 
   :node-dependencies [[source-map-support "0.2.8"]]
 
